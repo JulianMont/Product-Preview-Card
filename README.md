@@ -21,14 +21,17 @@ Users should be able to:
 
 ### Screenshot
 
+#### Desktop
 ![Desktop View](./screenshots/Desktop.PNG)
+#### Desktop Active
 ![Desktop Active](./screenshots/Desktop%20Active.PNG)
+##### Mobile View
 ![Mobile View](./screenshots/Mobile.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/JulianMont/Product-Preview-Card)
+- Live Site URL: [Live site URL](https://julianmont.github.io/Product-Preview-Card/)
 
 ### Built with
 
